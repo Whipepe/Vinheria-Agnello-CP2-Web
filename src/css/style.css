@@ -1,6 +1,59 @@
 :root{
-    --color1:#f0f0f0;
+    --color1:#FEF7EC;
     --color2:#333;
-    --color3:#B22222;
+    --color3:#800000;
     --color4: #FFE4B5;
+    --fontFamily:"Casacadia Code", sans-serif;
 }
+
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family:var(--fontFamily);
+    background-color: var(--color1);
+}
+
+h1{
+    position: fixed;
+    text-align: center;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 15px;
+    background-color: var(--color3);
+    color: var(--color1);
+    justify-content: center;
+}
+
+#inicio{
+    top: 70px;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+#container{
+    top: 150px;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+img{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    place-items: center;
+    height: auto;
+    max-width: 30%;
+}
+
+
