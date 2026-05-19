@@ -1,12 +1,20 @@
-<p align = "center">
-  <img width="650px" height="100px" src="./src/assets/Bannerreadme.png">
-</p>
+<div align="center">
+  <img src="./src/assets/Bannerreadme.png" 
+       alt="Vinheria Agnello" 
+       style="width: 100%; max-width: 850px; border-radius: 15px; box-shadow: 0 10px 30px rgba(139, 0, 0, 0.3);">
+</div>
 
-<p align = "center">
-bgsd
-</p>
+<br><br>
 
-<h1 align="center"> 🍷 Vinheria Agnello - Sistema de Avaliação de Estoque e Tendência de Vinhos </h1>
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-9B1D30?style=for-the-badge)
+![Checkpoint](https://img.shields.io/badge/Checkpoint-02-D4AF37?style=for-the-badge&color=D4AF37)
+![Web Development](https://img.shields.io/badge/Web-Development-6B3E2A?style=for-the-badge)
+
+</div>
+
+# 🍷 Vinheria Agnello - Sistema de Avaliação de Estoque e Tendência de Vinhos
 
 
 # 📖 Descrição do Projeto
@@ -25,6 +33,7 @@ Criar uma aplicação web que permita o cadastro sequencial de vinhos, realize v
 - Git
 - GitHub
 - HTML
+- CSS
 - Console do navegador
 
 
@@ -40,3 +49,8 @@ Criar uma aplicação web que permita o cadastro sequencial de vinhos, realize v
 # 🔗 Acesso ao Projeto
 - Repositório GitHub : 
 - Github Pages :
+
+
+
+#
+*"Feito com alma de sommelier e mente de desenvolvedor."*
