@@ -34,6 +34,18 @@ Imagine um sommelier digital que ajuda a gerenciar sua adega. Este sistema foi c
 
 Criar uma aplicação web que permita o cadastro sequencial de vinhos, realize validações automáticas e forneça análises sobre o estoque, safra e classificação de cada vinho cadastrado.
 
+## 🚀 Novas Funcionalidades - CP2
+- Cadastro sequencial de vinhos;
+- Validação dos dados informados pelo usuário;
+- Análise automática da quantidade em estoque;
+- Identificação de vinhos com estoque baixo;
+- Verificação da safra dos vinhos cadastrados;
+- Identificação dos vinhos mais antigos da vinheria;
+- Classificação dos vinhos com base nas informações cadastradas;
+- Exibição das informações de forma mais organizada no console;
+- Melhorias na estrutura do código JavaScript;
+- Melhorias visuais na página `index.html`;
+- Atualização da documentação do projeto no README.
 
 ## 🛠️ Tecnologias Utilizadas
 
