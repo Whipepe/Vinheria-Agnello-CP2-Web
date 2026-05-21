@@ -42,7 +42,7 @@ function updateWinery(){
     let name = prompt("Digite o nome do vinho: (Ou 0 para encerrar o programa)");
     
     if (name == "0"){
-        showMessage(`Número de cadastros feitos: ${counter}\nNúmero de vinhos com estoque baixo: ${lowStockCounter} \nVinho com a safra mais antiga: ${oldestHarvestWine} (${oldestHarvestYear})`)
+        showMessage(`Número de cadastros feitos: ${counter - 1}\nNúmero de vinhos com estoque baixo: ${lowStockCounter} \nVinho com a safra mais antiga: ${oldestHarvestWine} (${oldestHarvestYear})`)
         return;
     }
     
